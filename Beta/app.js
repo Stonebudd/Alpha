@@ -47,4 +47,6 @@ function findMedianSortedArrays(nums1, nums2) {
   const nums1 = [1, 3];
   const nums2 = [2];
   console.log(findMedianSortedArrays(nums1, nums2)); // Output: 2.0
+
+  //This is the End!!
   
