@@ -29,4 +29,6 @@ function findMaxSum(arr) {
   const array = [2, 4, 6, 2, 5];
   const maxSum = findMaxSum(array);
   console.log(maxSum); // Output: 13
+
+  //This is the end
   
